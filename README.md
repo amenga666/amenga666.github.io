@@ -1,6 +1,6 @@
 ## 爱情树
 
-### config.js 说明
+### `config.js`说明
 ```text
 var config = {
     // 下面的句子不一定非要7句，也可以改成4句，2句话都可以
@@ -26,7 +26,7 @@ Tip:换背景音乐的话,只需要把 `index_files/music.mp3` 换成你自己�
 
 如果不想要音乐, 就把这个music.mp3文件删除.
 
-## 链接
+## 其他
 * [第一期:爱情树 🌴将相爱的时刻永远珍藏 （微信，QQ可完美查看）](https://github.com/AJLoveChina/LoveTree)
 * [第二期: :cake:改改数据,为心爱的人做一个超具创意的网页生日祝福吧~ (生日快乐)](https://github.com/AJLoveChina/birthday)
 * [第三期: :balloon:塞纳河畔，左岸的咖啡。告白气球，飞入我的心扉。](https://github.com/AJLoveChina/loveBalloon)
